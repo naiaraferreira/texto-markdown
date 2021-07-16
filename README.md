@@ -24,16 +24,16 @@ Outro fator é a questão da dúvida, onde esse público não aceita que faça p
 
  Então, essa visão de que a ciência é algo mecanizado que só dar respostas prontas e irrefutáveis, precisa acabar, para isso é necessário divulgação de forma democrática, começando na educação escolar, pois assim serão capazes de entender os processos dos métodos científicos, além do desenvolvimento de senso crítico, que trará a capacidade de criticar a maneira e para que estão utilizando o conhecimento cientifico, sem descredibilizar a ciência.
  
-  ### Pontos abordados no texto
+ Pontos abordados no texto:
 
-.Ciência
+- Ciência
 
-.Política
+- Política
 
-.Interesse
+- Interesse
 
-.População
+- População
 
-.Investimento
+- Investimento
 
 
